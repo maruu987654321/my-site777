@@ -1,0 +1,25 @@
+<html style="background-color: #FFE4B5">
+  <h1 style="text-align: center; color: #4b4453; font-size: 55px;"> Мария "SATURN" </h1>
+  <h2 style="text-align: center; color: #4b4453; font-size: 35px;">Сайт-визитка</h2>
+  
+  <p style="color: #fcf8ff; font-size: 35px; 
+            background-color: #4b4453; 
+            text-align: center;">Обо мне:  <br>
+  <img src="assets/cat.png" alt="Здесь должен быть я" 
+       width="200px" height="200px"><br>
+    Я - программист: создаю сайты и игры. Знаю язык HTML. </p>
+  
+  <h2 style="color: #fcf8ff; font-size: 35px; background-color: #4b4453;">Мои интересы: </h2>
+  <p style="color: #4b4453; font-size: 35px;">___Играть на компьютере_Играть в футбол_________Рисовать</p>
+  <img src="assets/играть.png" alt="Люблю играть на компьютере" width="400px" height="">
+  <img src="assets/футбол.png" alt="Люблю играть в футбол" width="400px" height="">
+  <img src="assets/рисование.png" alt="Люблю рисовать" width="400px" height=""><br>
+  
+    <h2 style="color: #fcf8ff; font-size: 35px; background-color: #4b4453;">Интересные страницы:  </h2>
+
+  
+  <a href="https://mau.ru/relax/story/?p=24">Про котов</a><br>
+  <a href="http://media.friflex.com/business/kak-rabotayut-generativno-sostyazatelnye-i-drugie-neyroseti">Про нейросети</a><br>
+  <a href="https://dzen.ru/profiziku">Про физику</a>
+
+</html>
